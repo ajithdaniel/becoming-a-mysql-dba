@@ -40,3 +40,4 @@ Topics to covered:
  10. sysbench
  11. Maxscale
  12. ProxySQL
+ 13. performance-schema
