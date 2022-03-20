@@ -25,6 +25,15 @@ Topics to covered:
 20. MySQL on cloud
 21. MySQL Clustering
 
+Automations
+1. Shell Scripting
+2. Python
+3. Ansible
+4. Salt
+5. Chef
+6. Puppet
+
+
 
  DB Tools for daily use
  
