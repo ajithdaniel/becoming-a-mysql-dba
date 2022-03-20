@@ -41,3 +41,4 @@ Topics to covered:
  11. Maxscale
  12. ProxySQL
  13. performance-schema
+ 14. Haproxy
